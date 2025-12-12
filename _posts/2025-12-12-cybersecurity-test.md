@@ -5,7 +5,7 @@ title: "로렘 입숨" # 아티클 제목.
 author: HUMAN # 저자의 닉네임 (위에서 정의한 nick과 일치해야 함).
 # nextPart: # 다음 글 경로.
 # prevPart: # 이전 글 경로.
-date: 2025-12-12 12:16
+date: 2025-12-12 12:16:00 +09:00
 og_image: assets/example.png # Open Graph 미리 보기 이미지.
 og_description: "Example description." # Open Graph 설명.
 ---
