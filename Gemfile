@@ -13,3 +13,6 @@ gem "wdm", ">= 0.1.0", require: false if Gem.win_platform?
 # Ensure stdlib gems required by some libraries are available as gems
 gem "bigdecimal"
 gem "logger"
+
+# Gooele Search Console Settings
+gem "jekyll-sitemap"

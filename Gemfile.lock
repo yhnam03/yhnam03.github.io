@@ -39,6 +39,8 @@ GEM
       webrick (~> 1.7)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-theme-simplex (0.9.8.15)
       jekyll (~> 4.0)
     jekyll-watch (2.2.1)
@@ -77,6 +79,7 @@ PLATFORMS
 DEPENDENCIES
   bigdecimal
   jekyll (~> 4.4)
+  jekyll-sitemap
   jekyll-theme-simplex
   logger
   wdm (>= 0.1.0)
@@ -98,6 +101,7 @@ CHECKSUMS
   i18n (1.14.7) sha256=ceba573f8138ff2c0915427f1fc5bdf4aa3ab8ae88c8ce255eb3ecf0a11a5d0f
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
   jekyll-sass-converter (3.1.0) sha256=83925d84f1d134410c11d0c6643b0093e82e3a3cf127e90757a85294a3862443
+  jekyll-sitemap (1.4.0) sha256=0de08c5debc185ea5a8f980e1025c7cd3f8e0c35c8b6ef592f15c46235cf4218
   jekyll-theme-simplex (0.9.8.15) sha256=850ab718db1bd59d34612c8ed348577f8684e1aafd1bdccaa7f08ae3a17023a9
   jekyll-watch (2.2.1) sha256=bc44ed43f5e0a552836245a54dbff3ea7421ecc2856707e8a1ee203a8387a7e1
   json (2.18.0) sha256=b10506aee4183f5cf49e0efc48073d7b75843ce3782c68dbeb763351c08fd505
