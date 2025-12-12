@@ -7,6 +7,9 @@ copyright: © yhnam03 2025
 
 # theme: jekyll-theme-simplex
 
+url: "https://homonovo.github.io"
+baseurl: ""
+
 sass:
     style: compressed
 
