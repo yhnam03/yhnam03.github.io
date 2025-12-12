@@ -1,7 +1,7 @@
 ---
 layout: post # 변경하지 마세요.
 category: [Cybersecurity] # 하나, 둘 이상의 카테고리 또는 없음.
-title: "Lorem ipsum" # 아티클 제목.
+title: "로렘 입숨" # 아티클 제목.
 author: HUMAN # 저자의 닉네임 (위에서 정의한 nick과 일치해야 함).
 # nextPart: # 다음 글 경로.
 # prevPart: # 이전 글 경로.
