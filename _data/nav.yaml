@@ -1,0 +1,16 @@
+- title: Programming # 메뉴 항목 제목.
+  url: category/programming.html # 메뉴 항목 URL.
+  icon: assets/img/icons/programming.svg # 메뉴 항목 아이콘.
+  hue: "var(--c-themeHueOrange)" # 메뉴 항목 색상 (Note [1] 참조).
+  # subnav: # 서브메뉴 정의 (Note [2] 참조).
+  #     - title: C++
+  #       url: category/cpp.html
+  #       hue: "var(--c-themeHueOrange)"
+        # subnav: # 또 다른 서브메뉴
+        #     - title: Libraries
+        #       url: libs.html
+        #       hue: "var(--c-themeHueBlue)"
+- title: CyberSecurity
+  url: category/cybersecurity.html
+  icon: assets/img/icons/cybersecurity.svg
+  hue: "var(--c-themeHueOrange)"

@@ -1,9 +1,11 @@
-title: the Simplex theme
-logo_img: /assets/img/icons/golasblog_logo.svg
+title: I am HUMAN
+logo_img: /assets/img/icons/home.svg
 favicon: /assets/favicon.ico
-description: description
+description: becoming a human
 global_tags: jekyll theme simplex golasblog responsive html5
-copyright: © Golasowski 2021
+copyright: © yhnam03 2025
+
+theme: jekyll-theme-simplex
 
 sass:
     style: compressed
