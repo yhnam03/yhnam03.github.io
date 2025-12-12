@@ -5,7 +5,7 @@ category: [Programming] # 하나, 둘 이상의 카테고리 또는 없음.
 author: HUMAN # 저자의 닉네임 (위에서 정의한 nick과 일치해야 함).
 # nextPart: # 다음 글 경로.
 # prevPart: # 이전 글 경로.
-date: 2025-12-12 12:17:00 +09:00
+date: 2025-12-12 13:26:16
 og_image: assets/example.png # Open Graph 미리 보기 이미지.
 og_description: "Example description." # Open Graph 설명.
 ---
