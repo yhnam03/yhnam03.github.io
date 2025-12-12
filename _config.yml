@@ -5,7 +5,7 @@ description: becoming a human
 global_tags: jekyll theme simplex golasblog responsive html5
 copyright: © yhnam03 2025
 
-remote_theme: "golas/jekyll-theme-simplex"
+# theme: jekyll-theme-simplex
 
 sass:
     style: compressed
