@@ -1,13 +1,15 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
-gemspec
+
+# Site-mode Gemfile: explicit Jekyll + theme for local builds and CI
+gem "jekyll", "~> 4.4"
+gem "jekyll-theme-simplex"
+
+# Required for built-in WEBrick server on recent Ruby
+gem "webrick", "~> 1.7"
+
+# Windows file watcher (optional, improves dev experience on Windows)
+gem "wdm", ">= 0.1.0", require: false if Gem.win_platform?
 
 # Ensure stdlib gems required by some libraries are available as gems
 gem "bigdecimal"
 gem "logger"
-
-# How to Installation
-# The theme is declared in the gemspec; do NOT declare it again here.
-# If you want to install the theme as a gem for local builds, remove the
-# `gemspec` line above and add `gem "jekyll-theme-simplex"` instead.
